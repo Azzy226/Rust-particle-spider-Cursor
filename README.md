@@ -1,8 +1,9 @@
 # Rust-particle-spider-Cursor
 Rust particle (spider) Cursor
 
-I have another version without the particles and a more recognizable "spider"
-without making a Field to walk on the legs would just stick together and kind of flow like a jelly fish
+I have another version without the particles and a more recognizable "spider". 
+
+But without making a Field to walk on the legs would just stick together and kind of flow like a jelly fish
 it was a bad spider good jelly so i revamped to this awhile back and am just now uploading it lol like ten minutes ago lol "awhiiiiiiiiiile" lol
 
 
